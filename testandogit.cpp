@@ -8,6 +8,7 @@ int main()
     cout << "Mais um teste para o commit!";
     cout << "Outro teste!!!!";
     cout << "Teste";
+    cout << "Teste 2";
 
     return 0;
 }
