@@ -6,6 +6,8 @@ int main()
     cout << "Olá, testando o git";
     cout << "Adicionando mais uma linha para teste de commit!";
     cout << "Mais um teste para o commit!";
+    cout << "Outro teste!!!!";
+    
 
     return 0;
 }
