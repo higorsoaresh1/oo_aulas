@@ -1,14 +1,18 @@
 #include <iostream>
+#include <cmath>
+
 using namespace std;
 
 int main()
 {
-    cout << "Olá, testando o git";
-    cout << "Adicionando mais uma linha para teste de commit!";
-    cout << "Mais um teste para o commit!";
-    cout << "Outro teste!!!!";
-    cout << "Teste";
-    cout << "Teste 2";
+    cout << "Olá, testando o git\n\n";
+    
+    int x = 150;
+    float y = 998.90;
+    double result;
+    
+    cout << "\n\n";
+    cout << (result = pow(x, 2.5) - x*y) << "\n\n";
 
     return 0;
 }
